@@ -1,4 +1,8 @@
 package com.company.util;
+<<<<<<<<< Temporary merge branch 1
+
+=========
+>>>>>>>>> Temporary merge branch 2
 import java.util.Scanner;
 
 public class InputUtil {
