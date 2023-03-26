@@ -1,4 +1,8 @@
 package com.company.util;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 37123e78e14a5a205dfb2219207432facac61a14
 import java.util.Scanner;
 
 public class InputUtil {
