@@ -15,6 +15,7 @@ public class MenuUtil {
         }
     }
 
+
     public static String requireName() {
         return InputUtil.requiredText("enter name");
     }
@@ -31,3 +32,4 @@ public class MenuUtil {
         return InputUtil.requiredText("enter class name");
     }
 }
+

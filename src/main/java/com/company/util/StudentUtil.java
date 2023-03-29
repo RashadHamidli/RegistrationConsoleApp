@@ -12,6 +12,7 @@ public class StudentUtil {
         Student student = new Student(name, surname, age, className);
         return student;
     }
+    
 
     public static void printAllRegisteredStudents() {
         if (Config.students == null) {

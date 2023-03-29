@@ -7,6 +7,7 @@ public class InputUtil {
         System.out.println(title);
         String answer = scanner.nextLine();
         return answer;
+
     }
     public static int requiredNumber(String title) {
         Scanner scanner = new Scanner(System.in);
